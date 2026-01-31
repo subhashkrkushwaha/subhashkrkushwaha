@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Subhash Kumar Dangi
 <br></br>
-I am a BCA graduate with strong hands-on experience in Java, Spring Boot, Swagger, Redis, MySQL, Git & GitHub, and Android development & UI/UX design.
+I am a BCA graduate with strong hands-on knowledge in Java, Spring Boot, Swagger, Redis, MySQL, Git & GitHub, and Android development & UI/UX design.
 I enjoy building scalable backend systems and intuitive mobile applications, and I’ve successfully created real-world projects that reflect my skills, problem-solving ability, and passion for clean, efficient code.
 
 I’m always eager to learn new technologies and contribute to impactful projects in the software development space.
